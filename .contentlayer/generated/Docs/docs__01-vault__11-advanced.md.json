@@ -1,0 +1,19 @@
+{
+  "title": "Advanced",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/11-advanced.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/11-advanced.md",
+    "sourceFileName": "11-advanced.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/11-advanced"
+  },
+  "type": "Docs",
+  "filename": "advanced",
+  "url": "/docs/vault/advanced"
+}

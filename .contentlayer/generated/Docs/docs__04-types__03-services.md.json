@@ -1,0 +1,19 @@
+{
+  "title": "Services and annotations",
+  "folder": "types",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/04-types/03-services.md",
+  "_raw": {
+    "sourceFilePath": "docs/04-types/03-services.md",
+    "sourceFileName": "03-services.md",
+    "sourceFileDir": "docs/04-types",
+    "contentType": "markdown",
+    "flattenedPath": "docs/04-types/03-services"
+  },
+  "type": "Docs",
+  "filename": "services",
+  "url": "/docs/types/services"
+}

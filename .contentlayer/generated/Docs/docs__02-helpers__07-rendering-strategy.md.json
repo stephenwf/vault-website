@@ -1,0 +1,20 @@
+{
+  "title": "Rendering stategy",
+  "folder": "helpers",
+  "future": true,
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/02-helpers/07-rendering-strategy.md",
+  "_raw": {
+    "sourceFilePath": "docs/02-helpers/07-rendering-strategy.md",
+    "sourceFileName": "07-rendering-strategy.md",
+    "sourceFileDir": "docs/02-helpers",
+    "contentType": "markdown",
+    "flattenedPath": "docs/02-helpers/07-rendering-strategy"
+  },
+  "type": "Docs",
+  "filename": "rendering-strategy",
+  "url": "/docs/helpers/rendering-strategy"
+}

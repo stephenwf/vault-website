@@ -1,0 +1,4 @@
+---
+title: Thumbnails
+folder: helpers
+---

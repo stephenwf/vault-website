@@ -1,0 +1,19 @@
+{
+  "title": "Loading annotations",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/03-loading-annotations.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/03-loading-annotations.md",
+    "sourceFileName": "03-loading-annotations.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/03-loading-annotations"
+  },
+  "type": "Docs",
+  "filename": "loading-annotations",
+  "url": "/docs/vault/loading-annotations"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Loading collections",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/02-loading-collections.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/02-loading-collections.md",
+    "sourceFileName": "02-loading-collections.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/02-loading-collections"
+  },
+  "type": "Docs",
+  "filename": "loading-collections",
+  "url": "/docs/vault/loading-collections"
+}

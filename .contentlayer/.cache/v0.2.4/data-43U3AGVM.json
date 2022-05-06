@@ -1,0 +1,751 @@
+{
+  "cacheItemsMap": {
+    "docs/00-installation.md": {
+      "document": {
+        "title": "Installation",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/00-installation.md",
+        "_raw": {
+          "sourceFilePath": "docs/00-installation.md",
+          "sourceFileName": "00-installation.md",
+          "sourceFileDir": "docs",
+          "contentType": "markdown",
+          "flattenedPath": "docs/00-installation"
+        },
+        "type": "Docs",
+        "filename": "installation",
+        "url": "/doc/undefined"
+      },
+      "documentHash": "1651440394244",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/01-loading-manifests.md": {
+      "document": {
+        "title": "Loading manifests",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/01-loading-manifests.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/01-loading-manifests.md",
+          "sourceFileName": "01-loading-manifests.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/01-loading-manifests"
+        },
+        "type": "Docs",
+        "filename": "loading-manifests",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439786641",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/02-loading-collections.md": {
+      "document": {
+        "title": "Loading collections",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/02-loading-collections.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/02-loading-collections.md",
+          "sourceFileName": "02-loading-collections.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/02-loading-collections"
+        },
+        "type": "Docs",
+        "filename": "loading-collections",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439787264",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/03-loading-annotations.md": {
+      "document": {
+        "title": "Loading annotations",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/03-loading-annotations.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/03-loading-annotations.md",
+          "sourceFileName": "03-loading-annotations.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/03-loading-annotations"
+        },
+        "type": "Docs",
+        "filename": "loading-annotations",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439787906",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/04-reading-resources.md": {
+      "document": {
+        "title": "Reading resources",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/04-reading-resources.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/04-reading-resources.md",
+          "sourceFileName": "04-reading-resources.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/04-reading-resources"
+        },
+        "type": "Docs",
+        "filename": "reading-resources",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439788479",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/05-subscriptions.md": {
+      "document": {
+        "title": "Subscriptions and reactivity",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/05-subscriptions.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/05-subscriptions.md",
+          "sourceFileName": "05-subscriptions.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/05-subscriptions"
+        },
+        "type": "Docs",
+        "filename": "subscriptions",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439786069",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/06-meta-state.md": {
+      "document": {
+        "title": "Meta state",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/06-meta-state.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/06-meta-state.md",
+          "sourceFileName": "06-meta-state.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/06-meta-state"
+        },
+        "type": "Docs",
+        "filename": "meta-state",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439785295",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/07-typescript.md": {
+      "document": {
+        "title": "Typescript guide",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/07-typescript.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/07-typescript.md",
+          "sourceFileName": "07-typescript.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/07-typescript"
+        },
+        "type": "Docs",
+        "filename": "typescript",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439784504",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/08-abstractions.md": {
+      "document": {
+        "title": "Creating abstractions",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/08-abstractions.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/08-abstractions.md",
+          "sourceFileName": "08-abstractions.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/08-abstractions"
+        },
+        "type": "Docs",
+        "filename": "abstractions",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439383690",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/09-open-vault.md": {
+      "document": {
+        "title": "Future interactivity",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/09-open-vault.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/09-open-vault.md",
+          "sourceFileName": "09-open-vault.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/09-open-vault"
+        },
+        "type": "Docs",
+        "filename": "open-vault",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439783010",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/10-resource-editing.md": {
+      "document": {
+        "title": "Resource editing",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/10-resource-editing.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/10-resource-editing.md",
+          "sourceFileName": "10-resource-editing.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/10-resource-editing"
+        },
+        "type": "Docs",
+        "filename": "resource-editing",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439422986",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/11-advanced.md": {
+      "document": {
+        "title": "Advanced",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/11-advanced.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/11-advanced.md",
+          "sourceFileName": "11-advanced.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/11-advanced"
+        },
+        "type": "Docs",
+        "filename": "advanced",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439780189",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/01-vault/12-roadmap.md": {
+      "document": {
+        "title": "Roadmap",
+        "folder": "vault",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/01-vault/12-roadmap.md",
+        "_raw": {
+          "sourceFilePath": "docs/01-vault/12-roadmap.md",
+          "sourceFileName": "12-roadmap.md",
+          "sourceFileDir": "docs/01-vault",
+          "contentType": "markdown",
+          "flattenedPath": "docs/01-vault/12-roadmap"
+        },
+        "type": "Docs",
+        "filename": "roadmap",
+        "url": "/docs/vault/undefined"
+      },
+      "documentHash": "1651439448011",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/01-thumbnail.md": {
+      "document": {
+        "title": "Thumbnails",
+        "folder": "helpers",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/01-thumbnail.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/01-thumbnail.md",
+          "sourceFileName": "01-thumbnail.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/01-thumbnail"
+        },
+        "type": "Docs",
+        "filename": "thumbnail",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439632759",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/02-internationalisation.md": {
+      "document": {
+        "title": "Internationalisation",
+        "folder": "helpers",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/02-internationalisation.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/02-internationalisation.md",
+          "sourceFileName": "02-internationalisation.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/02-internationalisation"
+        },
+        "type": "Docs",
+        "filename": "internationalisation",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439727921",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/03-styles.md": {
+      "document": {
+        "title": "Styles",
+        "folder": "helpers",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/03-styles.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/03-styles.md",
+          "sourceFileName": "03-styles.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/03-styles"
+        },
+        "type": "Docs",
+        "filename": "styles",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439720244",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/04-events.md": {
+      "document": {
+        "title": "Events",
+        "folder": "helpers",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/04-events.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/04-events.md",
+          "sourceFileName": "04-events.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/04-events"
+        },
+        "type": "Docs",
+        "filename": "events",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439714999",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/05-getters.md": {
+      "document": {
+        "title": "Getters",
+        "folder": "helpers",
+        "future": true,
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/05-getters.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/05-getters.md",
+          "sourceFileName": "05-getters.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/05-getters"
+        },
+        "type": "Docs",
+        "filename": "getters",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439709688",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/06-annotation-pages.md": {
+      "document": {
+        "title": "Annotation page manager",
+        "folder": "helpers",
+        "future": true,
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/06-annotation-pages.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/06-annotation-pages.md",
+          "sourceFileName": "06-annotation-pages.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/06-annotation-pages"
+        },
+        "type": "Docs",
+        "filename": "annotation-pages",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439747141",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/07-rendering-strategy.md": {
+      "document": {
+        "title": "Rendering stategy",
+        "folder": "helpers",
+        "future": true,
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/07-rendering-strategy.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/07-rendering-strategy.md",
+          "sourceFileName": "07-rendering-strategy.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/07-rendering-strategy"
+        },
+        "type": "Docs",
+        "filename": "rendering-strategy",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439775434",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/08-object-renderer.md": {
+      "document": {
+        "title": "Object renderer",
+        "folder": "helpers",
+        "future": true,
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/08-object-renderer.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/08-object-renderer.md",
+          "sourceFileName": "08-object-renderer.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/08-object-renderer"
+        },
+        "type": "Docs",
+        "filename": "object-renderer",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439770073",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/09-custom-services.md": {
+      "document": {
+        "title": "Custom services",
+        "folder": "helpers",
+        "future": true,
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/09-custom-services.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/09-custom-services.md",
+          "sourceFileName": "09-custom-services.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/09-custom-services"
+        },
+        "type": "Docs",
+        "filename": "custom-services",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439807607",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/02-helpers/10-canvas-layouts.md": {
+      "document": {
+        "title": "Canvas layouts",
+        "folder": "helpers",
+        "future": true,
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/02-helpers/10-canvas-layouts.md",
+        "_raw": {
+          "sourceFilePath": "docs/02-helpers/10-canvas-layouts.md",
+          "sourceFileName": "10-canvas-layouts.md",
+          "sourceFileDir": "docs/02-helpers",
+          "contentType": "markdown",
+          "flattenedPath": "docs/02-helpers/10-canvas-layouts"
+        },
+        "type": "Docs",
+        "filename": "canvas-layouts",
+        "url": "/docs/helpers/undefined"
+      },
+      "documentHash": "1651439823335",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/03-parser/01-traversing.md": {
+      "document": {
+        "title": "Traversing",
+        "folder": "parser",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/03-parser/01-traversing.md",
+        "_raw": {
+          "sourceFilePath": "docs/03-parser/01-traversing.md",
+          "sourceFileName": "01-traversing.md",
+          "sourceFileDir": "docs/03-parser",
+          "contentType": "markdown",
+          "flattenedPath": "docs/03-parser/01-traversing"
+        },
+        "type": "Docs",
+        "filename": "traversing",
+        "url": "/docs/parser/undefined"
+      },
+      "documentHash": "1651439986952",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/03-parser/02-upgrading.md": {
+      "document": {
+        "title": "Upgrading",
+        "folder": "parser",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/03-parser/02-upgrading.md",
+        "_raw": {
+          "sourceFilePath": "docs/03-parser/02-upgrading.md",
+          "sourceFileName": "02-upgrading.md",
+          "sourceFileDir": "docs/03-parser",
+          "contentType": "markdown",
+          "flattenedPath": "docs/03-parser/02-upgrading"
+        },
+        "type": "Docs",
+        "filename": "upgrading",
+        "url": "/docs/parser/undefined"
+      },
+      "documentHash": "1651439900488",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/03-parser/03-serialising.md": {
+      "document": {
+        "title": "Serialising",
+        "folder": "parser",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/03-parser/03-serialising.md",
+        "_raw": {
+          "sourceFilePath": "docs/03-parser/03-serialising.md",
+          "sourceFileName": "03-serialising.md",
+          "sourceFileDir": "docs/03-parser",
+          "contentType": "markdown",
+          "flattenedPath": "docs/03-parser/03-serialising"
+        },
+        "type": "Docs",
+        "filename": "serialising",
+        "url": "/docs/parser/undefined"
+      },
+      "documentHash": "1651439908184",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/03-parser/04-bugs.md": {
+      "document": {
+        "title": "Reporting bugs",
+        "folder": "parser",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/03-parser/04-bugs.md",
+        "_raw": {
+          "sourceFilePath": "docs/03-parser/04-bugs.md",
+          "sourceFileName": "04-bugs.md",
+          "sourceFileDir": "docs/03-parser",
+          "contentType": "markdown",
+          "flattenedPath": "docs/03-parser/04-bugs"
+        },
+        "type": "Docs",
+        "filename": "bugs",
+        "url": "/docs/parser/undefined"
+      },
+      "documentHash": "1651439918728",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/04-types/01-accuracy.md": {
+      "document": {
+        "title": "Accuracy",
+        "folder": "types",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/04-types/01-accuracy.md",
+        "_raw": {
+          "sourceFilePath": "docs/04-types/01-accuracy.md",
+          "sourceFileName": "01-accuracy.md",
+          "sourceFileDir": "docs/04-types",
+          "contentType": "markdown",
+          "flattenedPath": "docs/04-types/01-accuracy"
+        },
+        "type": "Docs",
+        "filename": "accuracy",
+        "url": "/docs/types/undefined"
+      },
+      "documentHash": "1651439935725",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/04-types/02-versions.md": {
+      "document": {
+        "title": "Version comparison",
+        "folder": "types",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/04-types/02-versions.md",
+        "_raw": {
+          "sourceFilePath": "docs/04-types/02-versions.md",
+          "sourceFileName": "02-versions.md",
+          "sourceFileDir": "docs/04-types",
+          "contentType": "markdown",
+          "flattenedPath": "docs/04-types/02-versions"
+        },
+        "type": "Docs",
+        "filename": "versions",
+        "url": "/docs/types/undefined"
+      },
+      "documentHash": "1651439959057",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/04-types/03-services.md": {
+      "document": {
+        "title": "Services and annotations",
+        "folder": "types",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "docs/04-types/03-services.md",
+        "_raw": {
+          "sourceFilePath": "docs/04-types/03-services.md",
+          "sourceFileName": "03-services.md",
+          "sourceFileDir": "docs/04-types",
+          "contentType": "markdown",
+          "flattenedPath": "docs/04-types/03-services"
+        },
+        "type": "Docs",
+        "filename": "services",
+        "url": "/docs/types/undefined"
+      },
+      "documentHash": "1651439983794",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    },
+    "docs/index.md": {
+      "document": {
+        "title": "The index",
+        "body": {
+          "raw": "\n# The index\n\nThis is the index.\n",
+          "html": "<h1>The index</h1>\n<p>This is the index.</p>"
+        },
+        "_id": "docs/index.md",
+        "_raw": {
+          "sourceFilePath": "docs/index.md",
+          "sourceFileName": "index.md",
+          "sourceFileDir": "docs",
+          "contentType": "markdown",
+          "flattenedPath": "docs"
+        },
+        "type": "Docs",
+        "url": "/doc/undefined"
+      },
+      "documentHash": "1650837596804",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    }
+  }
+}

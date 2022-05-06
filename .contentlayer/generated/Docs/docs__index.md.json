@@ -1,0 +1,17 @@
+{
+  "title": "The index",
+  "body": {
+    "raw": "\n# The index\n\nThis is the index.\n",
+    "html": "<h1>The index</h1>\n<p>This is the index.</p>"
+  },
+  "_id": "docs/index.md",
+  "_raw": {
+    "sourceFilePath": "docs/index.md",
+    "sourceFileName": "index.md",
+    "sourceFileDir": "docs",
+    "contentType": "markdown",
+    "flattenedPath": "docs"
+  },
+  "type": "Docs",
+  "url": "/docs/undefined"
+}

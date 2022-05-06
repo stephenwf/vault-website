@@ -1,0 +1,19 @@
+{
+  "title": "Serialising",
+  "folder": "parser",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/03-parser/03-serialising.md",
+  "_raw": {
+    "sourceFilePath": "docs/03-parser/03-serialising.md",
+    "sourceFileName": "03-serialising.md",
+    "sourceFileDir": "docs/03-parser",
+    "contentType": "markdown",
+    "flattenedPath": "docs/03-parser/03-serialising"
+  },
+  "type": "Docs",
+  "filename": "serialising",
+  "url": "/docs/parser/serialising"
+}

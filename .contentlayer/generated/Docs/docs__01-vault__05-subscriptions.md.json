@@ -1,0 +1,19 @@
+{
+  "title": "Subscriptions and reactivity",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/05-subscriptions.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/05-subscriptions.md",
+    "sourceFileName": "05-subscriptions.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/05-subscriptions"
+  },
+  "type": "Docs",
+  "filename": "subscriptions",
+  "url": "/docs/vault/subscriptions"
+}

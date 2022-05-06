@@ -1,0 +1,19 @@
+{
+  "title": "Upgrading",
+  "folder": "parser",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/03-parser/02-upgrading.md",
+  "_raw": {
+    "sourceFilePath": "docs/03-parser/02-upgrading.md",
+    "sourceFileName": "02-upgrading.md",
+    "sourceFileDir": "docs/03-parser",
+    "contentType": "markdown",
+    "flattenedPath": "docs/03-parser/02-upgrading"
+  },
+  "type": "Docs",
+  "filename": "upgrading",
+  "url": "/docs/parser/upgrading"
+}

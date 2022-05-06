@@ -1,0 +1,4 @@
+---
+title: Accuracy
+folder: types
+---

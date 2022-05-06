@@ -1,0 +1,20 @@
+{
+  "title": "Helpers",
+  "folder": "helpers",
+  "hide_navigation": true,
+  "body": {
+    "raw": "\n# Helpers\n\nhow why etc.\n",
+    "html": "<h1>Helpers</h1>\n<p>how why etc.</p>"
+  },
+  "_id": "docs/02-helpers/00-index.md",
+  "_raw": {
+    "sourceFilePath": "docs/02-helpers/00-index.md",
+    "sourceFileName": "00-index.md",
+    "sourceFileDir": "docs/02-helpers",
+    "contentType": "markdown",
+    "flattenedPath": "docs/02-helpers/00-"
+  },
+  "type": "Docs",
+  "filename": "index",
+  "url": "/docs/helpers/index"
+}

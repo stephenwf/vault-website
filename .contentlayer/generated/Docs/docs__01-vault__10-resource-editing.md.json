@@ -1,0 +1,19 @@
+{
+  "title": "Resource editing",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/10-resource-editing.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/10-resource-editing.md",
+    "sourceFileName": "10-resource-editing.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/10-resource-editing"
+  },
+  "type": "Docs",
+  "filename": "resource-editing",
+  "url": "/docs/vault/resource-editing"
+}

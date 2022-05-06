@@ -1,0 +1,19 @@
+{
+  "title": "Reporting bugs",
+  "folder": "parser",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/03-parser/04-bugs.md",
+  "_raw": {
+    "sourceFilePath": "docs/03-parser/04-bugs.md",
+    "sourceFileName": "04-bugs.md",
+    "sourceFileDir": "docs/03-parser",
+    "contentType": "markdown",
+    "flattenedPath": "docs/03-parser/04-bugs"
+  },
+  "type": "Docs",
+  "filename": "bugs",
+  "url": "/docs/parser/bugs"
+}

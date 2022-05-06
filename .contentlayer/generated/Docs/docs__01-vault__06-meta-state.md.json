@@ -1,0 +1,19 @@
+{
+  "title": "Meta state",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/06-meta-state.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/06-meta-state.md",
+    "sourceFileName": "06-meta-state.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/06-meta-state"
+  },
+  "type": "Docs",
+  "filename": "meta-state",
+  "url": "/docs/vault/meta-state"
+}

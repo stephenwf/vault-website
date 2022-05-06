@@ -1,0 +1,19 @@
+{
+  "title": "Events",
+  "folder": "helpers",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/02-helpers/04-events.md",
+  "_raw": {
+    "sourceFilePath": "docs/02-helpers/04-events.md",
+    "sourceFileName": "04-events.md",
+    "sourceFileDir": "docs/02-helpers",
+    "contentType": "markdown",
+    "flattenedPath": "docs/02-helpers/04-events"
+  },
+  "type": "Docs",
+  "filename": "events",
+  "url": "/docs/helpers/events"
+}

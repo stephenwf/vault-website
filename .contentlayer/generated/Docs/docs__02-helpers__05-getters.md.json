@@ -1,0 +1,20 @@
+{
+  "title": "Getters",
+  "folder": "helpers",
+  "future": true,
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/02-helpers/05-getters.md",
+  "_raw": {
+    "sourceFilePath": "docs/02-helpers/05-getters.md",
+    "sourceFileName": "05-getters.md",
+    "sourceFileDir": "docs/02-helpers",
+    "contentType": "markdown",
+    "flattenedPath": "docs/02-helpers/05-getters"
+  },
+  "type": "Docs",
+  "filename": "getters",
+  "url": "/docs/helpers/getters"
+}

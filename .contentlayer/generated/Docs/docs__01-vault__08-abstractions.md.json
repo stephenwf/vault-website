@@ -1,0 +1,19 @@
+{
+  "title": "Creating abstractions",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/08-abstractions.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/08-abstractions.md",
+    "sourceFileName": "08-abstractions.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/08-abstractions"
+  },
+  "type": "Docs",
+  "filename": "abstractions",
+  "url": "/docs/vault/abstractions"
+}

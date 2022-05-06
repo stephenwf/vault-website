@@ -1,0 +1,19 @@
+{
+  "title": "Loading manifests",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/01-loading-manifests.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/01-loading-manifests.md",
+    "sourceFileName": "01-loading-manifests.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/01-loading-manifests"
+  },
+  "type": "Docs",
+  "filename": "loading-manifests",
+  "url": "/docs/vault/loading-manifests"
+}

@@ -1,0 +1,26 @@
+{
+  "cacheItemsMap": {
+    "index.md": {
+      "document": {
+        "title": "The index",
+        "body": {
+          "raw": "\n# The index\n\nThis is the index.\n",
+          "html": "<h1>The index</h1>\n<p>This is the index.</p>"
+        },
+        "_id": "index.md",
+        "_raw": {
+          "sourceFilePath": "index.md",
+          "sourceFileName": "index.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": ""
+        },
+        "type": "Docs",
+        "url": "/docs/"
+      },
+      "documentHash": "1650837596804",
+      "hasWarnings": false,
+      "documentTypeName": "Docs"
+    }
+  }
+}

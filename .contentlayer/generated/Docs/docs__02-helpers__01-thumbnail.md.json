@@ -1,0 +1,19 @@
+{
+  "title": "Thumbnails",
+  "folder": "helpers",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/02-helpers/01-thumbnail.md",
+  "_raw": {
+    "sourceFilePath": "docs/02-helpers/01-thumbnail.md",
+    "sourceFileName": "01-thumbnail.md",
+    "sourceFileDir": "docs/02-helpers",
+    "contentType": "markdown",
+    "flattenedPath": "docs/02-helpers/01-thumbnail"
+  },
+  "type": "Docs",
+  "filename": "thumbnail",
+  "url": "/docs/helpers/thumbnail"
+}

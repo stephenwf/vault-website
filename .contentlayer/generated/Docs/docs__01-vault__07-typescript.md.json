@@ -1,0 +1,19 @@
+{
+  "title": "Typescript guide",
+  "folder": "vault",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "docs/01-vault/07-typescript.md",
+  "_raw": {
+    "sourceFilePath": "docs/01-vault/07-typescript.md",
+    "sourceFileName": "07-typescript.md",
+    "sourceFileDir": "docs/01-vault",
+    "contentType": "markdown",
+    "flattenedPath": "docs/01-vault/07-typescript"
+  },
+  "type": "Docs",
+  "filename": "typescript",
+  "url": "/docs/vault/typescript"
+}
