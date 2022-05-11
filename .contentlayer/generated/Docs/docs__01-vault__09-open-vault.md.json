@@ -2,8 +2,8 @@
   "title": "Future interactivity",
   "folder": "vault",
   "body": {
-    "raw": "",
-    "html": ""
+    "raw": "\nService worker\nRemote vault\nVault as a service\n",
+    "html": "<p>Service worker\nRemote vault\nVault as a service</p>"
   },
   "_id": "docs/01-vault/09-open-vault.md",
   "_raw": {

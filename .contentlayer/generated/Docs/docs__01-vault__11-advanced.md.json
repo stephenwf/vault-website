@@ -2,8 +2,8 @@
   "title": "Advanced",
   "folder": "vault",
   "body": {
-    "raw": "",
-    "html": ""
+    "raw": "\n\n\n* Synchronous loading of resources\n",
+    "html": "<ul>\n<li>Synchronous loading of resources</li>\n</ul>"
   },
   "_id": "docs/01-vault/11-advanced.md",
   "_raw": {

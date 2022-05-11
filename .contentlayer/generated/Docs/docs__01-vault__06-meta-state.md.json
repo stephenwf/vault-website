@@ -2,8 +2,8 @@
   "title": "Meta state",
   "folder": "vault",
   "body": {
-    "raw": "",
-    "html": ""
+    "raw": "\nIntroduction\nEvents examples\nStyles example\nAPI Reference\n",
+    "html": "<p>Introduction\nEvents examples\nStyles example\nAPI Reference</p>"
   },
   "_id": "docs/01-vault/06-meta-state.md",
   "_raw": {
