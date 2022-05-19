@@ -28,9 +28,9 @@ export const sandpackTheme: SandpackTheme = {
   },
   typography: {
     bodyFont:
-      '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"',
+      `'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"`,
     monoFont:
-      '"Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace',
+      `Consolas,monaco,'Ubuntu Mono','Liberation Mono','Courier New',Courier,monospace`,
     fontSize: '14px',
     lineHeight: '1.4',
   },
